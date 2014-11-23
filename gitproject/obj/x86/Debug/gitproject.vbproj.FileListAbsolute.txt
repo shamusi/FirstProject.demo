@@ -1,0 +1,10 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\gitproject\gitproject\bin\Debug\gitproject.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\gitproject\gitproject\bin\Debug\gitproject.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\gitproject\gitproject\bin\Debug\gitproject.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\gitproject\gitproject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\gitproject\gitproject\obj\x86\Debug\gitproject.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\gitproject\gitproject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\gitproject\gitproject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\gitproject\gitproject\obj\x86\Debug\gitproject.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\gitproject\gitproject\obj\x86\Debug\gitproject.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\gitproject\gitproject\obj\x86\Debug\gitproject.pdb
